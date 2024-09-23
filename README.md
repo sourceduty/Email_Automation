@@ -14,6 +14,18 @@ Additionally, the GPT focuses on making the process simple and accessible, even 
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[RSS Automation](https://github.com/sourceduty/RSS_Automation)
+<br>
+[Git Automation](https://github.com/sourceduty/Git_Automation)
+<br>
+[Business Automation](https://github.com/sourceduty/Business_Automation)
+<br>
+[Employee Automation](https://github.com/sourceduty/Employee_Automation)
+<br>
+[Download Automation](https://github.com/sourceduty/Download_Automation)
+<br>
+[Coworking Automation](https://github.com/sourceduty/Coworking_Automation)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
